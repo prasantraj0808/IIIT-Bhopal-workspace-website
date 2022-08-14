@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('header1.php') ?>
     <title>upload Image</title>
 
 <div>
@@ -15,4 +15,4 @@
 	
 </div>
 
-<?php include('footer.php') ?>
+<?php include('footer1.php') ?>
